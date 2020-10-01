@@ -27,7 +27,7 @@ input[type=button]  {
     width:70px;
     padding:10px;
     font-size:22px;
-    font-height:bold;
+    /* font-height:bold; */
     border-radius:5px;
 }
 #del    {
