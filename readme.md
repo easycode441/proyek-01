@@ -1,0 +1,1 @@
+ini hanya contoh software kalkulator sederhana
